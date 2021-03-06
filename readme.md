@@ -32,4 +32,5 @@ English | [中文](./readme.zh.md)
    - **GH_TOKEN:** The GitHub access token generated above.
 
 
-修改UID
+修改UID,这个东西不是直播间的ID，而是你个人资料上面的ID
+项目run 成功之后Gitst上面也生成了相应的数据，但是pin了之后上面就显示项目名称没有显示项目内容，后面发现项目里面有三个文件，后面我把其他两个文件都给删除了，只保留一个，这样子就可以在主页上面看到Bilibili的稿件信息了
