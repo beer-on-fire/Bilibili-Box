@@ -30,9 +30,3 @@ English | [中文](./readme.zh.md)
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub access token generated above.
-
-祝你们好运！
-Gist设置没有内容
-这次又把GH_TOKEN：设置里面所有选项都打勾了
-这次的重点是把Gist创建的项目修改成public的，之前都是secret
-再提交一次
