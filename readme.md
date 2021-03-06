@@ -32,4 +32,4 @@ English | [中文](./readme.zh.md)
    - **GH_TOKEN:** The GitHub access token generated above.
 
 
-重新生成token
+修改UID
